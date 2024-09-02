@@ -53,6 +53,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sabrinacafe/sabrinacafe/output/snake.svg" alt="Snake animation" />
-
 ###
