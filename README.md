@@ -62,6 +62,7 @@ Atualmente construindo minha base técnica em Java e Spring Boot.
   <br/>
   <img src="https://streak-stats.demolab.com?user=sabrinacafe&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
+<div align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
@@ -72,3 +73,4 @@ Atualmente construindo minha base técnica em Java e Spring Boot.
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="32" alt="Gmail" />
   </a>
 </p>
+</div>
