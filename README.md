@@ -6,7 +6,11 @@
 
 Formada em Análise e Desenvolvimento de Sistemas pela FIAP.
 
-Minha experiência profissional foi no setor financeiro (FIDC), onde atuei como ponte entre negócio e desenvolvimento: especifiquei as regras de negócio de um sistema de detecção de fraude em pagamentos — com lógica condicional, múltiplas variáveis e níveis de severidade — e trabalhei com registro de títulos e conciliação financeira via API SPC Grafeno.
+Minha experiência profissional foi no setor financeiro (FIDC), onde atuei como ponte entre negócio e desenvolvimento: especifiquei as regras de negócio de um sistema de detecção de fraude em pagamentos com lógica condicional, múltiplas variáveis e níveis de severidade e trabalhei com registro de títulos e conciliação financeira via API SPC Grafeno.
+
+Fui selecionada para testar internamente uma plataforma de LLM. Minha abordagem: usar uma IA para quebrar a outra. Com o Claude como auxiliar, mapeei sistematicamente falhas que não seriam óbvias num teste convencional e documentei tudo em relatórios.
+
+O resultado: após um mês, fui realocada para avaliar uma plataforma mais avançada voltada à criação de agentes de IA e monitoramento inteligente de atendimentos com clientes.
 
 Ao longo da graduação, venci duas edições do **Global Solution da FIAP** com projetos de impacto real — app de mapeamento de estações de recarga de veículos elétricos e sistema de alerta de enchentes para São Paulo — e fui ao pódio no **Challenge FIAP** em parceria com a **Odontoprev**.
 
