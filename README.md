@@ -12,7 +12,7 @@ Fui selecionada para testar internamente uma plataforma de LLM. Minha abordagem:
 
 O resultado: após um mês, fui realocada para avaliar uma plataforma mais avançada voltada à criação de agentes de IA e monitoramento inteligente de atendimentos com clientes.
 
-Ao longo da graduação, venci duas edições do **Global Solution da FIAP** com projetos de impacto real — app de mapeamento de estações de recarga de veículos elétricos e sistema de alerta de enchentes para São Paulo — e fui ao pódio no **Challenge FIAP** em parceria com a **Odontoprev**.
+Ao longo da graduação, venci duas edições do **Global Solution da FIAP** com projetos de impacto real app de mapeamento de estações de recarga de veículos elétricos e sistema de alerta de enchentes para São Paulo e fui ao pódio no **Challenge FIAP** em parceria com a **Odontoprev**.
 
 Atualmente construindo minha base técnica em Java e Spring Boot.
 
